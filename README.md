@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cyril</h1>
-<h3 align="center">I'm A .NET Developer</h3>
+<h3 align="center">I'm self taught developer, started programming at middle of 2013, I've 7 years experience in .NET, started web development recently.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c-cyril-l" alt="c-cyril-l" /> </p>
 
